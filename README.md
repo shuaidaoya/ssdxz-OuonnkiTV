@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://ouonnki.site/upload/logo.svg" alt="OuonnkiTV Logo" width="80"/><br/>
-  OuonnkiTV
+  <img src="https://ouonnki.site/upload/logo.svg" alt="像素圣殿 Logo" width="80"/><br/>
+  像素圣殿
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/node-%3E%3D20-brightgreen" alt="Node.js >=20"/>
   <img src="https://img.shields.io/badge/pnpm-%3E%3D9.15.4-blue" alt="pnpm >=9.15.4"/>
   <img src="https://img.shields.io/badge/vite-%5E6.3.5-yellowgreen" alt="Vite"/>
-  <a href="https://github.com/Ouonnki/OuonnkiTV/stargazers"><img src="https://img.shields.io/github/stars/Ouonnki/OuonnkiTV?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/Ouonnki/像素圣殿/stargazers"><img src="https://img.shields.io/github/stars/Ouonnki/像素圣殿?style=social" alt="GitHub stars"/></a>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@
 
 点击下面按钮，一键部署到 Vercel：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ouonnki/OuonnkiTV&build-command=pnpm%20build&install-command=pnpm%20install&output-directory=dist)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ouonnki/像素圣殿&build-command=pnpm%20build&install-command=pnpm%20install&output-directory=dist)
 
 **Vercel手动详细部署方法**
 - Fork 或克隆本仓库到您的 GitHub/GitLab 账户
@@ -83,7 +83,7 @@
 
 ### 🔁 Fork 同步与更新
 
-保持你的 Fork 与上游（`Ouonnki/OuonnkiTV`）最新有两种方式：
+保持你的 Fork 与上游（`Ouonnki/像素圣殿`）最新有两种方式：
 
 #### 方式一：GitHub Action 自动强制镜像（已内置）
 工作流：`/.github/workflows/sync.yml`
@@ -112,7 +112,7 @@
 
 CLI 手动同步：
 ```bash
-git remote add upstream https://github.com/Ouonnki/OuonnkiTV.git # 只需首次
+git remote add upstream https://github.com/Ouonnki/像素圣殿.git # 只需首次
 git fetch upstream
 git checkout main
 # 合并方式（保留分叉提交）
@@ -126,7 +126,7 @@ git push origin main
 
 ## 📖 简介
 
-**OuonnkiTV** 是一个由 **React + Vite + TypeScript** 打造的现代化前端应用，用于聚合搜索与播放网络视频资源，支持跨端播放、搜索与观看历史、以及可配置的视频源管理。项目在 LibreSpark/LibreTV 的基础上进行了重构与增强（模块化、状态管理优化、交互体验提升）。
+**像素圣殿** 是一个由 **React + Vite + TypeScript** 打造的现代化前端应用，用于聚合搜索与播放网络视频资源，支持跨端播放、搜索与观看历史、以及可配置的视频源管理。项目在 LibreSpark/LibreTV 的基础上进行了重构与增强（模块化、状态管理优化、交互体验提升）。
 
 ## ✨ 特性
 
@@ -151,8 +151,8 @@ git push origin main
 
 ```bash
 # 克隆仓库
-git clone https://github.com/Ouonnki/OuonnkiTV.git
-cd OuonnkiTV
+git clone https://github.com/Ouonnki/像素圣殿.git
+cd 像素圣殿
 
 # 安装依赖
 pnpm install
@@ -360,7 +360,7 @@ VITE_PROXY_URL=https://cors.zme.ink/
 
 ## 🤝 贡献
 
-欢迎通过提交 [Issue](https://github.com/Ouonnki/OuonnkiTV/issues) 或 [Pull Request](https://github.com/Ouonnki/OuonnkiTV/pulls) 贡献代码、文档或想法。
+欢迎通过提交 [Issue](https://github.com/Ouonnki/像素圣殿/issues) 或 [Pull Request](https://github.com/Ouonnki/像素圣殿/pulls) 贡献代码、文档或想法。
 
 建议流程：
 1. Fork 仓库并创建特性分支：`feat/your-feature`
@@ -382,6 +382,6 @@ VITE_PROXY_URL=https://cors.zme.ink/
 
 ## ⭐ Star 趋势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ouonnki/OuonnkiTV&type=Date)](https://star-history.com/#Ouonnki/OuonnkiTV&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ouonnki/像素圣殿&type=Date)](https://star-history.com/#Ouonnki/像素圣殿&Date)
 
 如果本项目对你有帮助，欢迎 ⭐ Star 支持，让更多人看到它。🙌

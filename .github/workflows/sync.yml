@@ -27,7 +27,7 @@ jobs:
 
       - name: 添加 upstream 远程
         run: |
-          git remote add upstream https://github.com/Ouonnki/OuonnkiTV.git || true
+          git remote add upstream https://github.com/Ouonnki/像素圣殿.git || true
           git fetch --prune upstream
 
       - name: 检测本地 main 是否有独立提交（若有则跳过防误伤）
